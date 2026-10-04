@@ -20,12 +20,12 @@ The VisionPRO 8000 has an **Auto Changeover** feature built in, but installers o
 leave it turned off. When it's on, the thermostat holds both a heat setpoint and a
 cool setpoint and picks whichever one it needs.
 
-- [ ] On the thermostat: **Menu → Installer Options → Installer Setup**
-- [ ] Find **ISU 300 (System Changeover)** and set it to **Automatic**
+- [x] On the thermostat: **Menu → Installer Options → Installer Setup**
+- [x] Find **ISU 300 (System Changeover)** and set it to **Automatic**
 - [ ] Set the **Auto Changeover Deadband**: the minimum gap between the heat and cool
       setpoints, 2–9°F, default 3°F. Example: heat 68°F, cool 74°F.
 - [ ] Set the system mode to **Auto** (on the thermostat or in the TCC app)
-- [ ] Run it for about a week and keep notes
+- [ ] Run it for about a week and keep notes *(started 2026-10-04)*
 
 **Why do this first?** It might solve most of the problem for free, and it runs on the
 thermostat itself, so it keeps working when the internet is down. What it can't do is
